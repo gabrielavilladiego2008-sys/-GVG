@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>El Atardecer - Presentación</title>
-    <style>
-        :root {
-            --bg-primary: #0f172a;
-            --bg-card: #1e293b;
-            --accent-orange: #f97316;
-            --accent-red: #ef4444;
-            --accent-yellow: #f59e0b;
-            --text-main: #f8fafc;
-            --text-muted: #94a3b8;
-        }
 
         {
             box-sizing: border-box;
